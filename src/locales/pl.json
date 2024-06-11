@@ -166,7 +166,7 @@
       "takeExtremeWeatherTile": "Weź wierzchni kafel Gwałtownej Pogody ze stosu odpowiadającego aktywowanemu rodzajowi pogody i umieść go na odpowiednim polu w dziale Badań i Rozwoju."
     },
     "notRunning": {
-      "title": "Experiment <i>nie</i> zostaje przeprowadzony",
+      "title": "Eksperyment <i>nie</i> zostaje przeprowadzony",
       "returnPlayerBots": "Możesz zdecydować o odebraniu swoich Robotów z aktywnego modułu.",
       "saboteurBotExtremeWeather": "Jeśli Sabotażyści mają przynajmniej jednego Robota w aktywnym module: umieść nową płytkę Gwałtownej Pogody. Roboty pozostają w module.",
       "returnLativBots": "Zwróć wszystkie Roboty Lativa z aktywnego modułu na bok Laboratorium."
@@ -256,7 +256,7 @@
     "saboteursScheme": "Spisek Sabotażystów:",
     "priority": "Priorytet:",
     "reportsLeft": "Pozostałe karty Raportu Bezpieczeństwa:",
-    "nextFirstPlayer": "Next first player:",
+    "nextFirstPlayer": "Pierwszeństwo w następnej rundzie:",
     "unlockCitation": {
       "title": "Odblokuj pole Cytatu",
       "description": "Jeśli odblokowałeś pole Cytatu, możesz natychmiast zapłacić 1 Zezwolenie Naukowe, aby otrzymać <b>3&nbsp;PK</b>.",
